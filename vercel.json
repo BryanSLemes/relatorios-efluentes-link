@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://129.148.44.139/",
+      "permanent": false
+    }
+  ]
+}
